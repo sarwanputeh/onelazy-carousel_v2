@@ -1,4 +1,4 @@
-# lazy-test
+# Develop carousel component 
 
 ## Project setup
 ```
